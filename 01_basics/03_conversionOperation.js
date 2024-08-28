@@ -112,3 +112,12 @@ console.log(ture);
 // console.log(+ture);
 // console.log(ture+);
 // console.log(+"");
+
+let num1, num2, num3
+
+num1 = num2 = num3 = 2 + 2
+
+let gameCounter = 100
+gameCounter++;
+// ++gameCounter;
+console.log(gameCounter);
